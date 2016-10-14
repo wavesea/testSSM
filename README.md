@@ -1,2 +1,2 @@
 # testSSM
-整合spring+SpringMVC+Mybatis
+整合Spring+SpringMVC+Mybatis
